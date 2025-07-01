@@ -155,11 +155,8 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 
 ## 💬 Connect
 If you found this project helpful or have any questions, feel free to reach out!
+gadbet01@gmail.com
 
 ---
 
-This README provides a structured walkthrough of the MLOps project, showcasing the end-to-end pipeline, cloud integration, CI/CD setup, and robust data handling capabilities.
-=======
-# MLops-Project-1
-Complete structure of MLops directory with end-to-end , wokring pipeline 
->>>>>>> 674161e27f3eb0648cce8a14217585d6c4820183
+ 
