@@ -23,6 +23,10 @@
 # --------------------------------------------------------------------------------
 
 from src.pipline.training_pipeline import TrainPipeline
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 pipline = TrainPipeline()
 pipline.run_pipeline()

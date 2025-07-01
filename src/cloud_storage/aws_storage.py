@@ -3,6 +3,11 @@ from src.configuration.aws_connection import S3Client
 from io import StringIO
 from typing import Union,List
 import os,sys
+
+from dotenv import load_dotenv
+ 
+
+load_dotenv()
 from src.logger import logging
 from mypy_boto3_s3.service_resource import Bucket
 from src.exception import MyException
